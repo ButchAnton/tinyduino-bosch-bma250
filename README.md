@@ -1,4 +1,4 @@
-Bosch BMA250 3-Axis Accelerometer Class for TinyDuino
+Bosch BMA250 class for TinyDuino
 ========
 
 You can use this class to communicate TinyDuino with Bosch BMA250 Accelerometer via I2C.
